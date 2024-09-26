@@ -1,0 +1,11 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define SCREEN_WIDTH 800
+#define SCREEN_HEIGHT 600
+#define TILE_SIZE 64
+#define MOVE_SPEED 5.0f
+#define ROTATE_SPEED 5.0f
+#define M_PI 3.14159265358979323846
+
+#endif
